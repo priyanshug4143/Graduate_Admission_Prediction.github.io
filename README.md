@@ -1,9 +1,9 @@
 # Graduate_Admission_Prediction.github.io
-Context
+# Context
 
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
 
-Content
+# Content
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
 
