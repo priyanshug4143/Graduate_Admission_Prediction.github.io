@@ -2,6 +2,9 @@
 # Context
 
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
+# Problem Statement
+This model was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university.
+
 
 # Content
 
